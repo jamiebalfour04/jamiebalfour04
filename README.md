@@ -8,6 +8,8 @@
 - 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML and CSS and everyone's favourite SQL.
 - 📫 You can find me at jamiebalfour.scot!
 
+This is actually my new GitHub account after closing the previous one.
+
 <!---
 jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
