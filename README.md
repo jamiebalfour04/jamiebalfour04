@@ -10,7 +10,7 @@
 - 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML and CSS and everyone's favourite SQL.
 - 📫 You can find me at jamiebalfour.scot!
 
-This is actually my new GitHub account after closing the previous one.
+This is actually my new GitHub account after closing the previous one. I publish quite a few of my main projects such as BalfBar, BalfSlider, BalfRibbon and so on here. I also have many private repos that I am working on myself.
 
 <!---
 jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
