@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamiebalfour04
-- 👀 I’m interested in computer hardware, programming, user experience and web design and development. 
+- 👀 I’m interested in computer hardware, programming, computer language design, user experience and web design/development. 
 - 🌱 I’m currently learning the Go programming language
 - 💞️ I'm primarily working on my own projects such as ZPE/YASS and DASH, as well as my own WISP project.
 - 😍 Most of my work is on computer language parsing and compiler design as a result of the above.
