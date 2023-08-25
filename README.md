@@ -5,6 +5,7 @@
 - 😍 Most of my work is on computer language parsing and compiler design as a result of the above.
 - ⭐️ I'm a natural leader and have been running my own digital agency since July 2018
 - 🎤 I love speaking at events and got the honour of giving a talk at an Amazon conference a few years back
+- 💼 I'm the Executive Director of Jambour Digital. 
 - 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers
 - 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML and CSS and everyone's favourite SQL.
 - 📫 You can find me at jamiebalfour.scot!
