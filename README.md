@@ -7,8 +7,15 @@
 - 🎤 I love speaking at events and got the honour of giving a talk at an Amazon conference a few years back
 - 💼 I'm the Executive Director of Jambour Digital. 
 - 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers
-- 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML and CSS and everyone's favourite SQL.
+- 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML + CSS and everyone's favourite, SQL.
 - 📫 You can find me at jamiebalfour.scot!
+
+- Professional interests include (but are not limited to):
+✨ Leadership
+🤖 Automation
+💻 Computer Language Design
+🎨 User Experience & Interface Design
+🕸️ Web Design
 
 This is actually my new GitHub account after closing the previous one. I publish quite a few of my main projects such as BalfBar, BalfSlider, BalfRibbon and so on here. I also have many private repos that I am working on myself.
 
@@ -16,3 +23,4 @@ This is actually my new GitHub account after closing the previous one. I publish
 jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
