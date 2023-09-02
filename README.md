@@ -11,11 +11,11 @@
 - 📫 You can find me at jamiebalfour.scot!
 
 Professional interests include (but are not limited to):
-- ✨ Leadership.
-- 🤖 Automation.
-- 💻 Computer Language Design.
-- 🎨 User Experience & Interface Design.
-- 🕸️ Web Design.
+- ✨ Leadership
+- 🤖 Automation
+- 💻 Computer Language Design
+- 🎨 User Experience & Interface Design
+- 🕸️ Web Design
 
 This is actually my new GitHub account after closing the previous one. I publish quite a few of my main projects such as BalfBar, BalfSlider, BalfRibbon and so on here. I also have many private repos that I am working on myself.
 
