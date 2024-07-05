@@ -18,7 +18,7 @@ Professional skills include (but are not limited to):
 - 🎨 User Experience & Interface Design
 - 🕸️ Web Design
 
-This is actually my new GitHub account after closing the previous one. I publish quite a few of my main projects, such as BalfBar, BalfSlider, BalfRibbon and so on, here. I also have many private repos that I am working on myself.
+This is actually my updated GitHub account after clearing the previous content from it. I publish many of my main projects, such as BalfBar, BalfSlider, BalfRibbon and so on, here. I also have many private repos that I am working on myself.
 
 <!---
 jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
