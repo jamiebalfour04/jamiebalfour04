@@ -8,7 +8,7 @@
 - 💼 I'm the Executive Director of Jambour Digital. 
 - 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers
 - 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML + CSS and everyone's favourite, SQL.
-- 📫 You can find me at [jamiebalfour.scot](https://www.jamiebalfour.scot) !
+- 📫 You can find me at [jamiebalfour.scot](https://www.jamiebalfour.scot)!
 - 🏫 I studied Computer Science at Heriot-Watt University (I got a 1st Class BSc) and then got my Postgraduate Diploma in Education from the University of Strathclyde and I'm studying a Masters of Computer Science at the University of York
 
 Professional skills include (but are not limited to):
