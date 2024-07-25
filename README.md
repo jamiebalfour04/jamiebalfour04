@@ -22,7 +22,7 @@ This is actually my updated GitHub account after clearing the previous content f
 
 ## My Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,bootstrap,sass,d3,babel,jquery,ts,react,angular,python,java,cs,cpp,linux,windows,docker,github&perline=11">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,bootstrap,sass,d3,babel,jquery,ts,react,angular,python,java,lua,cs,cpp,linux,windows,ubuntu,docker,github&perline=6">
 </div>
 
 <!---
