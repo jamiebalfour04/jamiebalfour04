@@ -30,3 +30,6 @@ jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+## Keeping up to date with me
+I'm planning on using my [What's New](https://jamiebalfour04.github.io/whats-new/) page to include some information on what's new in my projects. Follow that project to find out what's new. Alternatively, look at my website for the latest information.
+
