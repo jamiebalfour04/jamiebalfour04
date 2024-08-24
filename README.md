@@ -1,6 +1,4 @@
-<div style="width: 100%;">
-  <img src="header.svg" style="width: 100%;" alt="Header">
-</div>
+<img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header">
 
 
 -👋 Hi, I’m @jamiebalfour04
