@@ -1,4 +1,4 @@
-<p style="height:200px;">
+<p style="margin:0 -20px">
   <img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header">
 </p>
 
