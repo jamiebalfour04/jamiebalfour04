@@ -1,3 +1,6 @@
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;" alt="Header">
+</div>
 - 👋 Hi, I’m @jamiebalfour04
 - 👀 I’m interested in computer hardware, programming, computer language design, user experience and web design/development. 
 - 🌱 I’m currently learning the Go programming language
