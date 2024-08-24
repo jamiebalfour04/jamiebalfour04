@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header">
+<p style="height:200px;">
+  <img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header">
+</p>
 
 
 - 👋 Hi, I’m @jamiebalfour04
