@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header">
 
 
--👋 Hi, I’m @jamiebalfour04
+- 👋 Hi, I’m @jamiebalfour04
 - 👀 I’m interested in computer hardware, programming, computer language design, user experience and web design/development. 
 - 🌱 I’m currently learning the Go programming language
 - 💞️ I'm primarily working on my own projects, such as ZPE/YASS and DASH, as well as my own WISP project.
