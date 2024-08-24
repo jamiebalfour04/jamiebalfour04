@@ -74,10 +74,11 @@
       </style>
 
       <!-- your HTML -->
+      <div class="container">
+        <h1>Hi there, my name is Jamie <div class="hi">👋</div></h1>
+      </div>
 
     </div>
   </foreignObject>
-  <div class="container">
-        <h1>Hi there, my name is Jamie <div class="hi">👋</div></h1>
-      </div>
+  
 </svg>
