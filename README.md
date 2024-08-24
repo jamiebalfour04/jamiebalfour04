@@ -1,10 +1,9 @@
 <div style="width: 100%;">
   <img src="header.svg" style="width: 100%;" alt="Header">
 </div>
-<ul>
-  <li>👋 Hi, I’m @jamiebalfour04</li>
-</ul>
 
+
+-👋 Hi, I’m @jamiebalfour04
 - 👀 I’m interested in computer hardware, programming, computer language design, user experience and web design/development. 
 - 🌱 I’m currently learning the Go programming language
 - 💞️ I'm primarily working on my own projects, such as ZPE/YASS and DASH, as well as my own WISP project.
