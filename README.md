@@ -12,7 +12,7 @@
 - ⭐️ I'm a natural leader and have been running my own digital agency since July 2018
 - 🎤 I love speaking at events and had the pleasure of giving a talk at an Amazon conference in 2018
 - 💼 I'm the Executive Director of Jambour Digital. 
-- 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers
+- 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers. I like my job, but my skillset is more in code!
 - 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML + CSS and everyone's favourite, SQL.
 - 📫 You can find me at [jamiebalfour.scot](https://www.jamiebalfour.scot)!
 - 🏫 I studied Computer Science at Heriot-Watt University (I got a 1st Class BSc) and then got my Postgraduate Diploma in Education from the University of Strathclyde and I'm studying a Masters of Computer Science at the University of York
