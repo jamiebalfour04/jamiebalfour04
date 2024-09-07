@@ -41,6 +41,14 @@
           text-align:right
         }
 
+        @media (prefers-color-scheme: dark) {
+          @media only screen {
+           .sub{
+             color: #fff;
+           }
+          }
+        }
+
         .hi {
           display: inline-block;
           transform-origin: 70% 70%;
