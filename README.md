@@ -2,6 +2,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header"></a>
 </p>
 
+## 🙈 Me briefly
 
 - 👋 Hi, I’m @jamiebalfour04
 - 👀 I’m interested in computer hardware, programming, computer language design, user experience and web design/development. 
@@ -26,7 +27,7 @@ Professional skills include (but are not limited to):
 
 This is my updated GitHub account after clearing the previous content from it. I publish many of my main projects here, such as BalfBar, BalfSlider, BalfRibbon, and so on. I also have many private repos that I am working on myself.
 
-## My Technical Skills
+## 🚀 My Technical Skills
 My primary skills are related to computer language design and compiler and runtime environments. I also love web design and development, both front-end and back-end. I love writing software and have a passion for making things perfect 👌!
 
 I'm exceptionally talented when it comes to software development.
@@ -40,6 +41,6 @@ jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## Keeping up to date with me
+## 🤓 Keeping up to date with me
 If you want to keep up to date with me, look at my website for the latest information.
 
