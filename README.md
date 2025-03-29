@@ -1,5 +1,5 @@
 <p style="margin:0 -20px">
-  <a href="#"><img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header"></a>
+  <a href="#" style="cursor:default !important"><img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header"></a>
 </p>
 
 ## 🙈 Me briefly
