@@ -14,7 +14,7 @@
 - 🎤 I love speaking at events and had the pleasure of giving a talk at an Amazon conference in 2018
 - 💼 I'm the Executive Director of Jambour Digital. 
 - 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers. I like my job, but my skillset is more in code!
-- 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML + CSS and everyone's favourite, SQL.
+- 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML + CSS, Lua Script (for modding games) and everyone's favourite, SQL.
 - 📫 You can find me at [jamiebalfour.scot](https://www.jamiebalfour.scot)!
 - 🏫 I studied Computer Science at Heriot-Watt University, where I earned a 1st Class BSc, and then obtained my Postgraduate Diploma in Education from the University of Strathclyde.
 
@@ -25,10 +25,10 @@ Professional skills include (but are not limited to):
 - 🎨 User Experience & Interface Design
 - 🕸️ Web Design
 
-This is my updated GitHub account after clearing the previous content from my old one and making this one. I publish many of my main projects here, such as BalfBar, BalfSlider, BalfRibbon, and so on. I also have many private repositories that I work on myself.
+This is my updated GitHub account, created by clearing the previous content from my old one. I publish many of my main projects here, including BalfBar, BalfSlider, BalfRibbon, and others. I also have many private repositories, such as ZPE, that I work on myself.
 
 ## 🚀 My Technical Skills
-My primary skills are related to computer language design, compilers, and runtime environments. I also love web design and development, both front-end and back-end. I love writing software and have a passion for making things perfect 👌!
+My primary skills are related to computer language design, compilers, and runtime environments. I also love web design and development, encompassing both front-end and back-end aspects. I love writing software and have a passion for making things perfect 👌!
 
 I'm exceptionally skilled in software development.
 
@@ -36,11 +36,6 @@ I'm exceptionally skilled in software development.
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,bootstrap,sass,d3,babel,jquery,ts,react,angular,python,java,lua,cs,cpp,linux,windows,ubuntu,docker,github&perline=6">
 </div>
 
-<!---
-jamiebalfour04/jamiebalfour04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## 🤓 Keeping up to date with me
-To stay up to date with me, visit my website for the latest information.
+To stay up-to-date with me, visit my website for the latest information.
 
