@@ -1,6 +1,11 @@
 <p style="margin:0 -20px">
   <a href="#" style="cursor:default !important"><img src="https://raw.githubusercontent.com/jamiebalfour04/jamiebalfour04/main/header.svg" style="width: 100%;" alt="Header"></a>
 </p>
+<div align="center">
+  <a href="https://www.jamiebalfour.scot/">
+    jamiebalfour.scot
+  </a>
+</div>
 
 ## 🙈 Me briefly
 
@@ -16,7 +21,7 @@
 - 🎓 I teach secondary-level Computing Science in Scotland and have mentored other software developers. I like my job, but my skillset is more in code!
 - 🛠 I mostly use PHP, Java, C#, Python, JavaScript, HTML + CSS, Lua Script (for modding games) and everyone's favourite, SQL.
 - 📫 You can find me at [jamiebalfour.scot](https://www.jamiebalfour.scot)!
-- 🏫 I studied Computer Science at Heriot-Watt University, where I earned a 1st Class BSc, and then obtained my Postgraduate Diploma in Education from the University of Strathclyde.
+- 🏫 I studied Computer Science at Heriot-Watt University, where I earned a 1st Class BSc (I aced university getting all but 5 As in all modules), and then obtained my Postgraduate Diploma in Education from the University of Strathclyde.
 
 Professional skills include (but are not limited to):
 - ✨ Leadership
@@ -24,6 +29,7 @@ Professional skills include (but are not limited to):
 - 💻 Computer Language Design
 - 🎨 User Experience & Interface Design
 - 🕸️ Web Design
+- 📚 Education
 
 This is my updated GitHub account, created by clearing the previous content from my old one. I publish many of my main projects here, including BalfBar, BalfSlider, BalfRibbon, and others. I also have many private repositories, such as ZPE, that I work on myself.
 
