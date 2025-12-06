@@ -36,7 +36,7 @@ This is my updated GitHub account, created by clearing the previous content from
 ## 🚀 My Technical Skills
 My primary skills are related to computer language design, compilers, and runtime environments. I also love web design and development, encompassing both front-end and back-end aspects. I love writing software and have a passion for making things perfect 👌!
 
-I'm exceptionally skilled in software development.
+I have a variety of skills in software development.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,bootstrap,sass,d3,babel,jquery,ts,react,angular,python,java,lua,cs,cpp,linux,windows,ubuntu,docker,github&perline=6">
