@@ -45,3 +45,6 @@ I have a variety of skills in software development.
 ## 🤓 Keeping up to date with me
 To stay up-to-date with me, visit my website for the latest information.
 
+<div align="center">
+  <img src="me-ai.png" alt="Me in AI" height="300">
+</div>
