@@ -33,6 +33,15 @@ Professional skills include (but are not limited to):
 
 This is my updated GitHub account, created by clearing the previous content from my old one. I publish many of my main projects here, including BalfBar, BalfSlider, BalfRibbon, and others. I also have many private repositories, such as ZPE, that I work on myself.
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=jamiebalfour04&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=12" alt="Jamie Balfour's GitHub statistics">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jamiebalfour04&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=12" alt="Jamie Balfour's most-used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jamiebalfour04&theme=radical&hide_border=true&border_radius=12" alt="Jamie Balfour's GitHub contribution streak">
+</p>
+
 ## 🚀 My Technical Skills
 My primary skills are related to computer language design, compilers, and runtime environments. I also love web design and development, encompassing both front-end and back-end aspects. I love writing software and have a passion for making things perfect 👌!
 
